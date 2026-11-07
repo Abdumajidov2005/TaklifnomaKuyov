@@ -3,6 +3,7 @@ VERSION:2.0
 PRODID:-//Shoxjahon & Gulnoza//Wedding Invitation//UZ
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:💍 Shoxjahon & Gulnoza - Nikoh To'yi
 BEGIN:VEVENT
 UID:shoxjahon-gulnoza-20261116@taklifnoma.uz
 DTSTAMP:20261107T000000Z
@@ -15,14 +16,13 @@ GEO:40.514985;72.021713
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ertaga Shoxjahon va Gulnozaning nikoh to'yi! Soat 11:00 da «Oqsaroy» to'yxonasida kutamiz.
+DESCRIPTION:🔔 Ertaga Shoxjahon va Gulnozaning nikoh to'yi! Soat 11:00 da «Oqsaroy» to'yxonasida kutamiz.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Bugun Shoxjahon va Gulnozaning nikoh to'yi! 2 soatdan so'ng (soat 11:00 da) «Oqsaroy» to'yxonasida kutamiz.
+DESCRIPTION:💍 Bugun soat 11:00 da Shoxjahon va Gulnozaning nikoh to'yi! «Oqsaroy» to'yxonasida kutamiz.
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-
